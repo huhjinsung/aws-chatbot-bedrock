@@ -197,3 +197,12 @@ if submitted == False :
 ```
 
 아래의 명령어를 실행하고 출력되는 주소로 Web 서버로 이동합니다.
+```bash
+streamlit run bedrock.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.31.14.117:8501
+  External URL: http://54.190.118.1:8501
+```
